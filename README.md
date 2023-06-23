@@ -1,6 +1,5 @@
 ### Hi, I'm Carson 👋
 
-- I'm a recent MD/PhD graduate (MD '22 @McGovernMed | PhD '22 @MDA_UTHGrad) and a PGY1 Prelim IM resident @uw_IMresidency
-- Scientifically, I'm interested in (epi)genomics and bioinformatics/computational biology 🧬 💾
-- Clinically, I'm interested in Radiation Oncology (matched @UW_RadoncDHO beginning July 2023)☢️
+- MD/PhD graduate (MD '22 @McGovernMed | PhD '22 @MDA_UTHGrad) and a PGY2 UW Rad Onc resident (@UW_RadoncDHO)
+- I'm interested in (epi)genomics and bioinformatics/computational biology 🧬 💾 (and of course Radiation Oncology ☢️)
 - Website [here](https://sccallahan.github.io/)
